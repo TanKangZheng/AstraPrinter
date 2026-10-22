@@ -1,0 +1,5 @@
+numpy
+Pillow
+opencv-contrib-python
+requests
+scrython>=2.2.0
